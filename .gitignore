@@ -1,0 +1,4 @@
+.pio
+include/project-configs.h
+desktop.ini
+.vscode/
