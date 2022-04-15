@@ -1,4 +1,4 @@
 .pio
 include/project-configs.h
-desktop.ini
+**/desktop.ini
 .vscode/
